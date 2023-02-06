@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/na-go/hello-world/issues"
   },
-  "homepage": "https://github.com/na-go/hello-world#readme"
+  "homepage": "https://github.com/na-go/hello-world#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.19"
+  }
 }

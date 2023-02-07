@@ -6,7 +6,7 @@
     "dist",
     "src"
   ],
-  "module": "dist/esm/index.mjs",
+  "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "main": "dist/index.js",
   "scripts": {

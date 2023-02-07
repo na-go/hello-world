@@ -3,8 +3,11 @@
   "version": "1.0.5",
   "description": "",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",

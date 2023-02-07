@@ -6,7 +6,8 @@
       "esnext"
     ],
     "types": [
-      "node"
+      "node",
+      "jest"
     ],
     "strict": true,
     "importHelpers": true,
@@ -17,5 +18,8 @@
   },
   "include": [
     "src"
+  ],
+  "exclude": [
+    "**/*.test.ts"
   ]
 }

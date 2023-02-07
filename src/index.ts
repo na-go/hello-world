@@ -1,4 +1,4 @@
 
 export const helloNago = () => {
-  console.log('hello, Nago.')
+  console.log('Hello, Nago.')
 }
